@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MediatorExample/.vs/MediatorExample/DesignTimeBuild
+/MediatorExample/MediatorExample/bin/Debug/netcoreapp3.1
+/MediatorExample/MediatorExample/obj
+/MediatorExample/.vs/MediatorExample
